@@ -44,7 +44,8 @@ def make_layout():
             # Tab 2: Add asset
             dcc.Tab(label='Planner View', children=[
                 
-                html.H5("Placeholder")
+                html.H5("Placeholder"),
+                html.H3("test")
                 
                 ])
             
